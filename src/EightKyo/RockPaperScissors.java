@@ -2,8 +2,23 @@ package EightKyo;
 
 public class RockPaperScissors {
     public static String rps(String p1, String p2) {
+        if (p1.equals(p2)) return "Draw!";
 
-        return "";
+        switch (p1) {
+            case("rock"):
+                if (p2.equals("scissors")) return "Player 1 won!";
+                break;
+
+            case("scissors"):
+                if (p2.equals("paper")) return "Player 1 won!";
+                break;
+
+            case("paper"):
+                if (p2.equals("rock")) return "Player 1 won!";
+                break;
+        }
+
+        return "Player 2 won!";
     }
 }
 
