@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d99d7c03-6155-4bf0-942e-1179c1e9e40f" name="Changes" comment="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии.">
-      <change beforePath="$PROJECT_DIR$/src/EightKyo/SquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EightKyo/SquareSum.java" afterDir="false" />
-    </list>
+    <list default="true" id="d99d7c03-6155-4bf0-942e-1179c1e9e40f" name="Changes" comment="Создал ветку 8kyo-ConvertBoolean. Добавил класс ConvertBooleanToYesOrNo. Добавил комментарии." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716293143336</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Создал ветку 8kyo-ConvertBoolean. Добавил класс ConvertBooleanToYesOrNo. Добавил комментарии.">
+      <option name="closed" value="true" />
+      <created>1716298102295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716298102295</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +249,8 @@
     <MESSAGE value="Решил задачу" />
     <MESSAGE value="Создал ветку 8kyo-TotalAmountOfPoints. Добавил задание, файл и ссылку." />
     <MESSAGE value="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии." />
+    <MESSAGE value="Создал ветку 8kyo-ConvertBoolean. Добавил класс ConvertBooleanToYesOrNo. Добавил комментарии." />
+    <option name="LAST_COMMIT_MESSAGE" value="Создал ветку 8kyo-ConvertBoolean. Добавил класс ConvertBooleanToYesOrNo. Добавил комментарии." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

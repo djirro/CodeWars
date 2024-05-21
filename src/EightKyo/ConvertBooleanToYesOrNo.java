@@ -2,7 +2,7 @@ package EightKyo;
 
 public class ConvertBooleanToYesOrNo {
     public static String boolToWord(boolean b) {
-        return "yes";
+        return b ? "Yes" : "No";
     }
 }
 
