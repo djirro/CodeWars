@@ -2,7 +2,13 @@ package EightKyo;
 
 public class SquareSum {
     public static int squareSum(int[] n) {
-        return 0;
+        var sum = 0;
+
+        for (int num : n) {
+            sum += num * num;
+        }
+
+        return sum;
     }
 }
 

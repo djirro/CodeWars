@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d99d7c03-6155-4bf0-942e-1179c1e9e40f" name="Changes" comment="Создал ветку 8kyo-TotalAmountOfPoints. Добавил задание, файл и ссылку.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d99d7c03-6155-4bf0-942e-1179c1e9e40f" name="Changes" comment="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии.">
+      <change beforePath="$PROJECT_DIR$/src/EightKyo/SquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EightKyo/SquareSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +50,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Debug",
-    "Java Scratch.Scratch.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/djirro/Documents/java/petProjects/CodeWars/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/djirro/Documents/java/petProjects/CodeWars/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -142,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716217669119</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии.">
+      <option name="closed" value="true" />
+      <created>1716293143336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716293143336</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +242,8 @@
     <MESSAGE value="Создал ветку для задания. Добавил комментарии" />
     <MESSAGE value="Решил задачу" />
     <MESSAGE value="Создал ветку 8kyo-TotalAmountOfPoints. Добавил задание, файл и ссылку." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал ветку 8kyo-TotalAmountOfPoints. Добавил задание, файл и ссылку." />
+    <MESSAGE value="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии." />
+    <option name="LAST_COMMIT_MESSAGE" value="Создал ветку 8kyo-SquareSum. Создал файл SquareSum, добавил комментарии." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
