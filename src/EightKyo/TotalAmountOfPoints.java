@@ -3,9 +3,19 @@ package EightKyo;
 public class TotalAmountOfPoints {
 
     public static int points(String[] games) {
-        return 0;
-    }
+        var result = 0;
 
+        for (String game : games) {
+            var commandX = game.charAt(0);
+            var commandY = game.charAt(game.length() - 1);
+
+            if (commandX == commandY) result += 1;
+
+            if (commandX > commandY) result += 3;
+        }
+
+        return result;
+    }
 }
 
 /*
